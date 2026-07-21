@@ -32,8 +32,8 @@ pip install torch transformers sentence-transformers numpy pandas pyarrow tqdm
 ## Data Preprocessing
 
 1. Download a dataset and place it under `data/`. Supported datasets include:
-    - Amazon 5-core (e.g. `Beauty`, `Sports_and_Outdoors`, `Toys_and_Games`). Download from [link](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html).
-    - GDGB datasets (e.g. `Sephora`, `WeiboDaily`, `WeiboTech`, `WikiLife`). Download from [link](https://www.kaggle.com/datasets/f5e51c13e31f34cc84177d121c5902e0076c826d24e40414186024232e62973e).
+    - Amazon 5-core (e.g. `Beauty`, `Sports_and_Outdoors`, `Toys_and_Games`). Download from this [link](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html).
+    - GDGB datasets (e.g. `Sephora`, `WeiboDaily`, `WeiboTech`, `WikiLife`). Download from this [link](https://www.kaggle.com/datasets/f5e51c13e31f34cc84177d121c5902e0076c826d24e40414186024232e62973e).
 
     Example layout:
 
