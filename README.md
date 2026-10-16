@@ -20,6 +20,7 @@ Two tokenizer families are supported:
 - `model/`: TIGER, TIGET-based variants and SASRec model implementations and training scripts
 - `opq/`: OPQ tokenizer training and code generation
 - `rqvae/`: RQ-VAE tokenizer training and code generation
+- `Supplementary Tables.pdf`: The tables cited as Supplementary Tables S1–S12 in the manuscript
 
 ## Environment
 
